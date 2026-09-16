@@ -52,4 +52,33 @@ $selection-background-color: unquote("{{ site.selection.background_color }}");
   $selection-background-color: rgba(invert($brand-color), 0.3);
 }
 
+.page-banner-profile {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 24px !important;
+}
+
+.page-banner-profile-image {
+  width: 100px !important;
+  height: 100px !important;
+  object-fit: contain !important;
+  border-radius: 14px !important;
+  background: white !important;
+  padding: 8px !important;
+  flex-shrink: 0 !important;
+}
+
+.page-banner-profile .page-banner-heading {
+  font-size: 42px !important;
+  line-height: 1.1 !important;
+  margin: 0 0 8px 0 !important;
+}
+
+.page-banner-profile .page-banner-subheading {
+  font-size: 21px !important;
+  line-height: 1.3 !important;
+  margin: 0 !important;
+}
+
 @import "yat";
