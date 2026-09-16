@@ -121,7 +121,9 @@
     class="page-banner-profile-image"
   >
 
-  <div>
+<div class="hero-wrap">
+
+  <div class="hero-text">
     <h1 class="page-banner-heading">
       {{ heading | default: page.title | escape }}
     </h1>
@@ -130,6 +132,16 @@
       {{ subheading | default: page.subtitle | escape }}
     </h2>
   </div>
+
+  <div class="hero-image-wrap">
+    <img
+      src="/assets/images/data-science.png"
+      alt="Data Science"
+      class="hero-image"
+    >
+  </div>
+
+</div>
 </div>
           </div>
 
