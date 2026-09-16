@@ -52,19 +52,4 @@ $selection-background-color: unquote("{{ site.selection.background_color }}");
   $selection-background-color: rgba(invert($brand-color), 0.3);
 }
 
-.page-banner-profile {
-  display: flex;
-  align-items: center;
-  gap: 20px;
-}
-
-.page-banner-profile-image {
-  width: 120px;
-  height: 120px;
-  object-fit: contain;
-  border-radius: 12px;
-  background: white;
-  padding: 8px;
-}
-
 @import "yat";

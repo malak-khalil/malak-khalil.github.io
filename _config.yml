@@ -151,7 +151,7 @@ defaults:
   home:
     heading: "Malak Khalil"
     subheading: "MSc Student in Data Science"
-    banner: "/assets/images/data-science.png"
+    banner: ""
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
