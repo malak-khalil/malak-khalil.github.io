@@ -87,39 +87,40 @@ $selection-background-color: unquote("{{ site.selection.background_color }}");
   min-height: 100vh;
   padding: 120px 8% 60px;
   background: #000;
-  gap: 40px;
+  gap: 50px;
   box-sizing: border-box;
 }
 
 .hero-text {
   flex: 1;
-  max-width: 50%;
+  max-width: 55%;
 }
 
 .hero-text .page-banner-heading {
-  font-size: 64px !important;
-  line-height: 1.05 !important;
-  margin: 0 0 16px 0 !important;
-  color: white !important;
+  font-size: 58px !important;
+  line-height: 1.08 !important;
+  margin: 0 0 18px 0 !important;
+  color: #fff !important;
 }
 
 .hero-text .page-banner-subheading {
-  font-size: 32px !important;
-  line-height: 1.2 !important;
+  font-size: 26px !important;
+  line-height: 1.35 !important;
   margin: 0 !important;
-  color: white !important;
+  color: #fff !important;
+  font-weight: 400 !important;
 }
 
 .hero-image-wrap {
   flex: 1;
   display: flex;
-  justify-content: flex-end;
   align-items: center;
+  justify-content: flex-end;
 }
 
 .hero-image {
   width: 100%;
-  max-width: 560px;
+  max-width: 520px;
   height: auto;
   object-fit: contain;
 }
@@ -127,8 +128,9 @@ $selection-background-color: unquote("{{ site.selection.background_color }}");
 @media (max-width: 900px) {
   .hero-wrap {
     flex-direction: column;
+    justify-content: center;
     text-align: center;
-    padding-top: 140px;
+    padding: 120px 30px 50px;
   }
 
   .hero-text {
@@ -136,11 +138,11 @@ $selection-background-color: unquote("{{ site.selection.background_color }}");
   }
 
   .hero-text .page-banner-heading {
-    font-size: 44px !important;
+    font-size: 42px !important;
   }
 
   .hero-text .page-banner-subheading {
-    font-size: 24px !important;
+    font-size: 22px !important;
   }
 
   .hero-image-wrap {
@@ -148,8 +150,7 @@ $selection-background-color: unquote("{{ site.selection.background_color }}");
   }
 
   .hero-image {
-    max-width: 380px;
+    max-width: 360px;
   }
 }
-
 @import "yat";

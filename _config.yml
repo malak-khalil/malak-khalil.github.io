@@ -149,8 +149,8 @@ night_mode: "manual"
 # Page default value
 defaults:
   home:
-    heading: "Malak Khalil"
-    subheading: "MSc Student in Data Science"
+    heading: "Turning Data into Insight"
+    subheading: "MSc Student in Data Science | AI & Software Projects"
     banner: ""
 
 # Banner default settings
