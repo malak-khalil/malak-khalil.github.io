@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://malak-khalil.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://malak-khalil.github.io/" rel="alternate" type="text/html" /><updated>2026-09-18T10:02:25+00:00</updated><id>https://malak-khalil.github.io/feed.xml</id><title type="html">Malak Khalil</title><subtitle>Personal portfolio of Malak Khalil, a Master&apos;s student exploring computer science, data science, and technology through academic and personal projects.</subtitle><author><name>malak-khalil</name></author><entry><title type="html">My Business Card Project</title><link href="https://malak-khalil.github.io/projects/2026/09/14/business-card-project.html" rel="alternate" type="text/html" title="My Business Card Project" /><published>2026-09-14T00:00:00+00:00</published><updated>2026-09-14T00:00:00+00:00</updated><id>https://malak-khalil.github.io/projects/2026/09/14/business-card-project</id><content type="html" xml:base="https://malak-khalil.github.io/projects/2026/09/14/business-card-project.html"><![CDATA[<p>This project was created as part of my Git and LaTeX practice session.</p>
+
+<p>I customized a LaTeX business card, managed the project with Git branches and commits,
+and published the source code on GitHub.</p>
+
+<!--more-->
+
+<p><a href="https://github.com/malak-khalil/my-business-card/releases/latest/download/card.pdf">View the latest business card PDF</a></p>]]></content><author><name>malak-khalil</name></author><category term="projects" /><summary type="html"><![CDATA[This project was created as part of my Git and LaTeX practice session. I customized a LaTeX business card, managed the project with Git branches and commits, and published the source code on GitHub.]]></summary></entry><entry><title type="html">DermaGlow AI — AI-Powered Skincare Platform</title><link href="https://malak-khalil.github.io/projects/2026/04/01/dermaglow-ai.html" rel="alternate" type="text/html" title="DermaGlow AI — AI-Powered Skincare Platform" /><published>2026-04-01T00:00:00+00:00</published><updated>2026-04-01T00:00:00+00:00</updated><id>https://malak-khalil.github.io/projects/2026/04/01/dermaglow-ai</id><content type="html" xml:base="https://malak-khalil.github.io/projects/2026/04/01/dermaglow-ai.html"><![CDATA[<p>DermaGlow AI is an AI-powered skincare platform designed to analyze user needs and support personalized skincare recommendations.</p>
+
+<p>The project combines artificial intelligence, data-driven analysis, and software development to create a practical user-focused application.</p>
+
+<h3 id="key-areas">Key areas</h3>
+
+<ul>
+  <li>Artificial intelligence</li>
+  <li>Data analysis</li>
+  <li>Personalized recommendations</li>
+  <li>Web application development</li>
+  <li>User-centered design</li>
+</ul>]]></content><author><name>malak-khalil</name></author><category term="projects" /><category term="AI" /><category term="machine-learning" /><category term="web" /><summary type="html"><![CDATA[DermaGlow AI is an AI-powered skincare platform designed to analyze user needs and support personalized skincare recommendations.]]></summary></entry><entry><title type="html">Cross-Region Amazon VPC Peering Connection</title><link href="https://malak-khalil.github.io/projects/2026/03/20/amazon-vpc-peering.html" rel="alternate" type="text/html" title="Cross-Region Amazon VPC Peering Connection" /><published>2026-03-20T00:00:00+00:00</published><updated>2026-03-20T00:00:00+00:00</updated><id>https://malak-khalil.github.io/projects/2026/03/20/amazon-vpc-peering</id><content type="html" xml:base="https://malak-khalil.github.io/projects/2026/03/20/amazon-vpc-peering.html"><![CDATA[<p>A cloud networking project focused on establishing connectivity between Amazon VPCs located in different AWS regions.</p>
+
+<h3 id="focus">Focus</h3>
+
+<ul>
+  <li>Amazon Web Services</li>
+  <li>VPC networking</li>
+  <li>Cross-region connectivity</li>
+  <li>Cloud infrastructure</li>
+  <li>Network configuration</li>
+</ul>]]></content><author><name>malak-khalil</name></author><category term="projects" /><category term="aws" /><category term="cloud" /><category term="networking" /><summary type="html"><![CDATA[A cloud networking project focused on establishing connectivity between Amazon VPCs located in different AWS regions.]]></summary></entry><entry><title type="html">Cosmetics E-Commerce Mobile App</title><link href="https://malak-khalil.github.io/projects/2026/03/10/cosmetics-ecommerce-app.html" rel="alternate" type="text/html" title="Cosmetics E-Commerce Mobile App" /><published>2026-03-10T00:00:00+00:00</published><updated>2026-03-10T00:00:00+00:00</updated><id>https://malak-khalil.github.io/projects/2026/03/10/cosmetics-ecommerce-app</id><content type="html" xml:base="https://malak-khalil.github.io/projects/2026/03/10/cosmetics-ecommerce-app.html"><![CDATA[<p>A mobile e-commerce application designed for browsing and purchasing cosmetic products.</p>
+
+<h3 id="focus">Focus</h3>
+
+<ul>
+  <li>Mobile application development</li>
+  <li>E-commerce functionality</li>
+  <li>Product browsing</li>
+  <li>User experience</li>
+  <li>Software development</li>
+</ul>]]></content><author><name>malak-khalil</name></author><category term="projects" /><category term="mobile" /><category term="ecommerce" /><category term="software-development" /><summary type="html"><![CDATA[A mobile e-commerce application designed for browsing and purchasing cosmetic products.]]></summary></entry><entry><title type="html">NYC 311 SLA Storm Detector</title><link href="https://malak-khalil.github.io/projects/2025/12/15/nyc-311-storm-detector.html" rel="alternate" type="text/html" title="NYC 311 SLA Storm Detector" /><published>2025-12-15T00:00:00+00:00</published><updated>2025-12-15T00:00:00+00:00</updated><id>https://malak-khalil.github.io/projects/2025/12/15/nyc-311-storm-detector</id><content type="html" xml:base="https://malak-khalil.github.io/projects/2025/12/15/nyc-311-storm-detector.html"><![CDATA[<p>A parallel analytics project focused on detecting storm-related patterns in NYC 311 service requests.</p>
+
+<p>The project explored multiple parallel programming models to improve performance and scalability.</p>
+
+<h3 id="technologies">Technologies</h3>
+
+<ul>
+  <li>OpenMP</li>
+  <li>MPI</li>
+  <li>pThreads</li>
+  <li>CUDA</li>
+  <li>Parallel analytics</li>
+</ul>]]></content><author><name>malak-khalil</name></author><category term="projects" /><category term="parallel-computing" /><category term="cuda" /><category term="mpi" /><category term="openmp" /><summary type="html"><![CDATA[A parallel analytics project focused on detecting storm-related patterns in NYC 311 service requests.]]></summary></entry><entry><title type="html">Enhancing Pandemic Misinformation Detection</title><link href="https://malak-khalil.github.io/projects/2025/11/20/misinformation-detection.html" rel="alternate" type="text/html" title="Enhancing Pandemic Misinformation Detection" /><published>2025-11-20T00:00:00+00:00</published><updated>2025-11-20T00:00:00+00:00</updated><id>https://malak-khalil.github.io/projects/2025/11/20/misinformation-detection</id><content type="html" xml:base="https://malak-khalil.github.io/projects/2025/11/20/misinformation-detection.html"><![CDATA[<p>A machine learning project focused on improving pandemic misinformation detection by combining source credibility with explainable ensemble learning.</p>
+
+<h3 id="focus">Focus</h3>
+
+<ul>
+  <li>Misinformation detection</li>
+  <li>Source credibility analysis</li>
+  <li>Ensemble learning</li>
+  <li>Explainable AI</li>
+  <li>Machine learning</li>
+</ul>]]></content><author><name>malak-khalil</name></author><category term="projects" /><category term="ai" /><category term="machine-learning" /><category term="explainable-ai" /><category term="misinformation" /><summary type="html"><![CDATA[A machine learning project focused on improving pandemic misinformation detection by combining source credibility with explainable ensemble learning.]]></summary></entry><entry><title type="html">Multithreaded HTTP/HTTPS Proxy Server</title><link href="https://malak-khalil.github.io/projects/2025/10/15/proxy-server.html" rel="alternate" type="text/html" title="Multithreaded HTTP/HTTPS Proxy Server" /><published>2025-10-15T00:00:00+00:00</published><updated>2025-10-15T00:00:00+00:00</updated><id>https://malak-khalil.github.io/projects/2025/10/15/proxy-server</id><content type="html" xml:base="https://malak-khalil.github.io/projects/2025/10/15/proxy-server.html"><![CDATA[<p>A multithreaded HTTP/HTTPS proxy server developed in Python.</p>
+
+<h3 id="features">Features</h3>
+
+<ul>
+  <li>HTTP and HTTPS support</li>
+  <li>HTTPS tunneling</li>
+  <li>Caching</li>
+  <li>Blacklist filtering</li>
+  <li>Request logging</li>
+  <li>Administrative dashboard</li>
+  <li>Multithreaded request handling</li>
+</ul>]]></content><author><name>malak-khalil</name></author><category term="projects" /><category term="python" /><category term="networking" /><category term="systems" /><summary type="html"><![CDATA[A multithreaded HTTP/HTTPS proxy server developed in Python.]]></summary></entry><entry><title type="html">Bibliotonic Bookstore</title><link href="https://malak-khalil.github.io/projects/2025/04/20/bibliotonic-bookstore.html" rel="alternate" type="text/html" title="Bibliotonic Bookstore" /><published>2025-04-20T00:00:00+00:00</published><updated>2025-04-20T00:00:00+00:00</updated><id>https://malak-khalil.github.io/projects/2025/04/20/bibliotonic-bookstore</id><content type="html" xml:base="https://malak-khalil.github.io/projects/2025/04/20/bibliotonic-bookstore.html"><![CDATA[<p>A software engineering project centered around the development of a bookstore application.</p>
+
+<h3 id="focus">Focus</h3>
+
+<ul>
+  <li>Software engineering</li>
+  <li>Application design</li>
+  <li>Requirement analysis</li>
+  <li>Software architecture</li>
+  <li>Team project development</li>
+</ul>]]></content><author><name>malak-khalil</name></author><category term="projects" /><category term="software-engineering" /><category term="bookstore" /><category term="application-development" /><summary type="html"><![CDATA[A software engineering project centered around the development of a bookstore application.]]></summary></entry><entry><title type="html">GrocerGo</title><link href="https://malak-khalil.github.io/projects/2025/03/20/grocergo.html" rel="alternate" type="text/html" title="GrocerGo" /><published>2025-03-20T00:00:00+00:00</published><updated>2025-03-20T00:00:00+00:00</updated><id>https://malak-khalil.github.io/projects/2025/03/20/grocergo</id><content type="html" xml:base="https://malak-khalil.github.io/projects/2025/03/20/grocergo.html"><![CDATA[<h2 id="web-programming-project--grocergo">Web Programming Project — GrocerGo</h2>
+
+<p>GrocerGo is a web programming project developed as part of my academic coursework.</p>
+
+<p>The project focuses on building a web-based grocery platform and applying core web development concepts.</p>]]></content><author><name>malak-khalil</name></author><category term="projects" /><category term="projects" /><summary type="html"><![CDATA[Web Programming Project — GrocerGo]]></summary></entry><entry><title type="html">Designing a RISC Processor</title><link href="https://malak-khalil.github.io/projects/2025/03/15/risc-processor.html" rel="alternate" type="text/html" title="Designing a RISC Processor" /><published>2025-03-15T00:00:00+00:00</published><updated>2025-03-15T00:00:00+00:00</updated><id>https://malak-khalil.github.io/projects/2025/03/15/risc-processor</id><content type="html" xml:base="https://malak-khalil.github.io/projects/2025/03/15/risc-processor.html"><![CDATA[<p>A computer architecture project focused on the design and understanding of a RISC processor.</p>
+
+<h3 id="focus">Focus</h3>
+
+<ul>
+  <li>RISC architecture</li>
+  <li>Processor design</li>
+  <li>Computer architecture</li>
+  <li>Instruction execution</li>
+  <li>Hardware concepts</li>
+</ul>]]></content><author><name>malak-khalil</name></author><category term="projects" /><category term="computer-architecture" /><category term="risc" /><category term="hardware" /><summary type="html"><![CDATA[A computer architecture project focused on the design and understanding of a RISC processor.]]></summary></entry></feed>
